@@ -1,0 +1,69 @@
+.title KiCad schematic
+.save all
+.probe alli
+.probe p(C12)
+.probe p(C2)
+.probe p(C1)
+.probe p(C6)
+.probe p(C5)
+.probe p(C4)
+.probe p(C3)
+.probe p(R13)
+.probe p(R11)
+.probe p(R10)
+.probe p(R9)
+.probe p(R14)
+.probe p(R1)
+.probe p(V1)
+.probe p(C11)
+.probe p(C7)
+.probe p(R12)
+.probe p(C9)
+.probe p(R5)
+.probe p(R2)
+.probe p(R3)
+.probe p(C8)
+.probe p(R4)
+.probe p(C10)
+.probe p(R6)
+.probe p(R7)
+.probe p(R8)
+.probe p(R15)
+.probe p(R16)
+U2 __U2
+C12 /EQ_OUT Net-_C12-Pad1_ 4.7u
+C2 GND +12V 100n
+C1 -12V GND 100n
+C6 -12V +12V 47u
+C5 +12V -12V 47u
+C4 -12V GND 100n
+C3 +12V GND 100n
+U1 __U1
+R13 -12V /MID_OUT 22kOhm
+R11 /Trebel_FB Net-_U1D--_ 4.7kOhm
+Trebel_POT3 __Trebel_POT3
+R10 /Trebel_IN GND 10kOhm
+R9 /Trebel_IN GND 15kOhm
+R14 -12V /Trebel_OUT 22kOhm
+R1 GND /VIN 100kOhm
+V1 Net-_C7-Pad1_ GND DC 0 SIN( 0 1 1k 0 0 0 ) AC 1  
+C11 /Trebel_IN /BUFF_OUT 1n
+J1 __J1
+C7 /VIN Net-_C7-Pad1_ 4.7u
+BASS_POT1 __BASS_POT1
+MID_POT2 __MID_POT2
+R12 -12V /BASS_OUT 22kOhm
+C9 /MID_HP /BUFF_OUT 10n
+R5 /MID_HP GND 10kOhm
+R2 /BASS_IN /BUFF_OUT 15kOhm
+R3 GND /BASS_IN 10kOhm
+C8 GND /BASS_IN 0.1u
+R4 /BASS_FB Net-_U1B--_ 4.7kOhm
+C10 GND /MID_BP 10n
+R6 /MID_BP /MID_HP 10kOhm
+R7 /MID_BP GND 10kOhm
+R8 /MID_FB Net-_U1C--_ 4.7kOhm
+R15 Net-_C12-Pad1_ -12V 22kOhm
+R16 /EQ_OUT GND 100kOhm
+J2 __J2
+.end
