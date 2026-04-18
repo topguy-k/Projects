@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Apr  4 23:52:34 2026
+# Process ID         : 14200
+# Current directory  : D:/College/Projects/FSM_based_Industrial_Controller
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent19256 D:\College\Projects\FSM_based_Industrial_Controller\FSM_based_Industrial_Controller.xpr
+# Log file           : D:/College/Projects/FSM_based_Industrial_Controller/vivado.log
+# Journal file       : D:/College/Projects/FSM_based_Industrial_Controller\vivado.jou
+# Running On         : Pradhumna-OMEN
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7840HS w/ Radeon 780M Graphics     
+# CPU Frequency      : 3793 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16415 MB
+# Swap memory        : 16106 MB
+# Total Virtual      : 32521 MB
+# Available Virtual  : 8914 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.srcs/sources_1/new/mainlogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module safety_fsm
+INFO: [VRFC 10-311] analyzing module conveyor_fsm
+INFO: [VRFC 10-311] analyzing module sorting_fsm
+INFO: [VRFC 10-311] analyzing module packaging_fsm
+INFO: [VRFC 10-311] analyzing module mainlogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mainlogic_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

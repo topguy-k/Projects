@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.srcs/sim_1/new/testbench.v,1769195273,verilog,,,,mainlogic_tb,,,E:/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.srcs/sources_1/new/mainlogic.v,1769195201,verilog,,D:/College/Projects/FSM_based_Industrial_Controller/FSM_based_Industrial_Controller.srcs/sim_1/new/testbench.v,,conveyor_fsm;mainlogic;packaging_fsm;safety_fsm;sorting_fsm,,,E:/2025.2/Vivado/data/rsb/busdef,,,,,
